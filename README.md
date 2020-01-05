@@ -1,5 +1,8 @@
 # ExtendedMTL4Pain
 
+This is an implementation of 
+Xu, X., Huang, J.S., & de Sa, V.R. (2019). Pain Evaluation in Video using Extended Multitask Learning from Multidimensional Measurements. Proceedings of Machine Learning Research, (Machine Learning for Health ML4H at NeurIPS 2019)
+
 Install: python2.7, pytorch, cv2, matlab (for face detection)
 
 Pre-processing:
